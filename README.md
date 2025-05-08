@@ -19,5 +19,5 @@ Read more about Nimbus here!
 | Other |	WebSockets, Git |
 
 # Reach out and connect with me!
-[LinkedIn](https://www.linkedin.com/in/jondfortune/)
-[Nimbus](https://nimbusnlp.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/jondfortune/)
+- [Nimbus](https://nimbusnlp.github.io/)
