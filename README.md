@@ -21,3 +21,6 @@ Read more about Nimbus here!
 # Reach out and connect with me!
 - [LinkedIn](https://www.linkedin.com/in/jondfortune/)
 - [Nimbus](https://nimbusnlp.github.io/)
+
+# Fun Fact
+- I'm an avid rollerblader 🙃
