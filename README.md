@@ -23,4 +23,4 @@ Read more about Nimbus here!
 - [Nimbus](https://nimbusnlp.github.io/)
 
 # Fun Fact
-- I'm an avid rollerblader 🙃
+- I'm an avid rollerblader 🙃 🛼 
