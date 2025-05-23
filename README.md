@@ -1,4 +1,4 @@
-## Howdy! I'm JD 👋😁
+## Hello! I'm JD 👋😁
 
 I'm a full stack software engineer with experience in JavaScript, TypeScript, Ruby, PostgreSQL, and React. I leverage my engineering and project management backgrounds to deconstruct complex problems and drive them to resolution.
 
